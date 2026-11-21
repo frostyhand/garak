@@ -22,6 +22,7 @@ For a guide to writing probes, see :doc:`extending.probe`.
    probes/base
    probes/continuation
    probes/dan
+   probes/darkpattern
    probes/divergence
    probes/doctor
    probes/donotanswer
